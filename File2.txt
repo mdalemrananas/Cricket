@@ -1,2 +1,3 @@
 This is file2.
 Editted file2.
+Moved to branch1.
